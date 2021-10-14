@@ -1,4 +1,4 @@
-package com.abstractAndinterface.animal;
+package abstractandinterface.animal;
 
 public abstract class Animal {
     public abstract String makeSound();

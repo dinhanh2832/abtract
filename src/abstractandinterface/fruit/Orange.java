@@ -1,4 +1,4 @@
-package com.abstractAndinterface.fruit;
+package abstractandinterface.fruit;
 
 public class Orange extends Fruit{
     public String howToEat() {

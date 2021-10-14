@@ -1,6 +1,4 @@
-package com.abstractAndinterface.animal;
-
-import com.abstractAndinterface.animal.Animal;
+package abstractandinterface.animal;
 
 public class Tiger extends Animal {
     public String makeSound() {

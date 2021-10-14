@@ -1,4 +1,4 @@
-package com.abstractAndinterface.edible;
+package abstractandinterface.edible;
 
 public interface Edible {
     String howToEat();
